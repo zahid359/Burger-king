@@ -1,0 +1,119 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f3ebed;
+    /* max-height: 5vh; */
+}
+.container-fluid{
+    background-color: #f3ebed;
+    color: black;
+    position: fixed;
+    z-index: 100;
+}
+.menu{
+    font-size: 2vw;
+    margin-left: 9vw;
+    color: rgb(77, 22, 22);
+}
+.butt button{
+    margin-right: 5vw;
+    padding: 5px;
+    width: 9vw;
+    height: 6vh;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: orangered;
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#f3ebed;
+}
+.text h1{
+    font-size: 50px;
+    padding-top: 100px;
+}
+.button1 button{
+    width: 22vw;
+    height: 8vh;
+    border-radius: 30px;
+    background-color: orangered;
+    color: white;
+}
+.button2 button{
+    width: 22vw;
+    height: 8vh;
+    margin-top: 2vw;
+    border-radius: 30px;
+    background-color:#f3ebed;
+    color: rgb(77, 22, 22);
+}
+.i{
+    margin-top: 30px;
+}
+.i img {
+    height: 60vh;
+}
+.img2{
+    margin-left: 6vw;
+}
+hr{
+    margin-top: 0%;
+    padding: 0%;
+    margin: 0%;
+}
+.button3 button{
+    /* height: 65px; */
+    border-radius: 30px;
+}
+.button4 button{
+    /* height: 65px; */
+    border-radius: 30px;
+}
+.button5 button{
+    /* height: 50vh; */
+    border-radius: 30px;
+}
+.button6 button{
+    border-radius: 30px;
+}
+.card-body{
+    height: 32vh;
+}
+.foot {
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 10vw;
+}
+ section{
+    display: flex;
+    /* justify-content: center; */
+ }
+ .im img{
+    height: 70vh;
+ }
+ h1{
+    color: rgb(77, 22, 22);
+ }
+.text1{
+    margin-top: 15vh;
+}
+.pra{
+    font-size: 15px;
+    color: rgb(77, 22, 22);
+}
+.text1 h1{
+    font-size: 40px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background-color: rgb(77, 22, 22);
+    color: white;
+}
